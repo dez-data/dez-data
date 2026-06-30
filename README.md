@@ -50,7 +50,7 @@ Field-level data collection across 23 rural communities in Mubende District, Uga
 
 ## Credentials
 
-IBM Data Fundamentals · AWS Educate Machine Learning Foundations · Generative AI with AWS (Udacity, Accenture-affiliated) · DataCamp Data Literacy Certification · MEL Certificate, Philanthropy University
+IBM Data Fundamentals · AWS Educate Machine Learning Foundations · Generative AI with AWS (Udacity) · DataCamp Data Literacy Certification · MEL Certificate, Philanthropy University
 
 ---
 
